@@ -1,0 +1,54 @@
+body.signin-body {
+    background-color: #e6f2ff;
+}
+
+.signin-container {
+    margin-top: 8%;
+}
+
+.card.signin-card {
+    padding: 0px 20px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+img.signin-img {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+}
+
+form.signin-form {
+    max-width: 350px;
+    margin: auto;
+}
+
+/* Add this CSS code to adjust the spacing of the form inputs */
+.space {
+    margin-bottom: 10px; /* Adjust this value to control the vertical spacing */
+}
+
+/* Add this CSS code to adjust the spacing between the form inputs and the form label */
+.space label {
+    margin-bottom: 0; /* Set the margin to 0 to remove any spacing between label and input */
+}
+
+
+button.signin-btn {
+	color:button;
+	background-color: #D64829;
+	width:100%;
+	margin-bottom: 1.2rem;
+}
+
+
+
+
+a.create-new-account{
+	font-size:1.2rem;
+	text-align: center;
+	display:block;
+	margin-top: 15px;
+}
